@@ -1,4 +1,5 @@
 # Programa para calcular el promedio de un estudiante
+# Primera versión
 
 act1 = float(input("Ingrese calificación para Actividad 1: "))
 if 100 >= act1 and act1 >= 0:
