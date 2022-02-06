@@ -1,1 +1,1 @@
-#Proyectos-Pr-ctica
+Mini proyectos de código para practicar python
